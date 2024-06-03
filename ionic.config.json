@@ -1,0 +1,7 @@
+{
+  "name": "questions-and-answers-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
